@@ -1,4 +1,6 @@
 .container {
+    margin: 0;
+    padding: 20px;
     width: 100%;
     display: flex;
     justify-content: flex-start;
@@ -8,4 +10,10 @@
     background-color: #fff;
     gap: 10px;
     list-style-type: none;
+    height: 50px;
+}
+
+.active {
+    color: red;
+    font-weight: bold;
 }

@@ -1,4 +1,3 @@
-import './App.css'
 import { BrowserRouter, Routes, Route } from "react-router";
 // import NavigationComponent from './components/navigation/navigation.component';
 import IndexPage from './pages/index.page';
@@ -10,15 +9,17 @@ function App() {
     <>
       <main>
         <BrowserRouter>
-        <NavigationComponent />
-          <Routes>
-            <Route index element={
-              <IndexPage />
-            } />
-            <Route path="/matador" element={
-              <MatadorPage />
-            } />
-          </Routes>
+          <NavigationComponent />
+          <div style={{ marginTop: '50px', position: 'relative' }}>
+            <Routes>
+              <Route index element={
+                <IndexPage />
+              } />
+              <Route path="/matador" element={
+                <MatadorPage />
+              } />
+            </Routes>
+          </div>
         </BrowserRouter>
       </main>
     </>

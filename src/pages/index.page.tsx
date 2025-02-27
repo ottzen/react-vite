@@ -1,9 +1,10 @@
-// import { NavLink } from "react-router";
+
 
 const IndexPage = () => { 
     return (
         <div>
-           Forside   
+            <h1>Index Page</h1>
+            <p>This is the index page</p>
         </div>
     );
 };

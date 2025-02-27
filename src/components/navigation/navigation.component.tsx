@@ -5,10 +5,17 @@ const NavigationComponent = () => {
     return (
         <ul className={S.container}>
             <li>
-                <NavLink to="/">Forside</NavLink>
+                <NavLink
+                    className={({ isActive }: { isActive: boolean }) => (isActive ? S.active : "")}
+                    to="/"
+                >
+                    Forside
+                </NavLink>
             </li>
             <li>
-                <NavLink to="/matador">Matador</NavLink>
+                <NavLink
+                    className={({ isActive }: { isActive: boolean }) => (isActive ? S.active : "")}
+                    to="/matador">Matador</NavLink>
             </li>
         </ul>
     );
