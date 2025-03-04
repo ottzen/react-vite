@@ -33,15 +33,15 @@ const MatadorComponent = () => {
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
             />
+            {searchQuery &&  <p>Search results for "{searchQuery}":</p>}
             <ul>
-                {filteredResults.map((entry, index) => (
+                {searchQuery && filteredResults.map((entry, index) => (
                     <li key={index}>
-                        <strong>{entry.start} - {entry.end}</strong>
-                        <ul>
-                            {entry.lines.map((lineObj, i) => (
-                                <li key={i}>{highlightText(lineObj.line, searchQuery)}</li>
-                            ))}
-                        </ul>
+
+                        {entry.lines.map((lineObj, i) => (
+                            <li key={i}>{highlightText(lineObj.line, searchQuery)}</li>
+                        ))}
+                        {entry.start} - {entry.end}
                     </li>
                 ))}
             </ul>
