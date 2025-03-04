@@ -1,11 +1,9 @@
 import S from "./matador.module.scss";
 
-const MatadorComponent = () => { 
-
-
+const MatadorComponent = () => {
     return (
         <div className={S.container}>
-            <h1>MA</h1>
+            M
         </div>
     );
 };

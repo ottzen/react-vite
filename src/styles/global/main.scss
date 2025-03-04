@@ -1,0 +1,6 @@
+@import "../helpers/all";
+
+a {
+    @include link-style();
+    
+}

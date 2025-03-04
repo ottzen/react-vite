@@ -1,10 +1,12 @@
-
+import BasicLink from "../components/atoms/Link/Link.component";
 
 const IndexPage = () => { 
     return (
         <div>
-            <h1>Index Page</h1>
-            <p>This is the index page</p>
+            <BasicLink href="/matador" >
+                <h1>M</h1>
+               
+            </BasicLink>
         </div>
     );
 };

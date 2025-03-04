@@ -1,4 +1,4 @@
-import MatadorComponent from "../components/matador/matador.component";
+import MatadorComponent from "../components/templates/matador/matador.component";
 
 const MatadorPage = () => {
     return (
