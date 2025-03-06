@@ -1,50 +1,87 @@
 import { useState } from "react";
-import { Episode1 } from "../matador/files/episode1";
+import { allEpisodes } from "./data/allEpisodes";
+import { useHighlightText } from "./hooks/useHighlightText.hook";
+import { formatTime } from "./hooks/useFormatTime.hook";
+import EpisodeInfoComponent from "./components/episodeInfo/episodeInfo.component";
 import S from "./matador.module.scss";
 
 const MatadorComponent = () => {
     const [searchQuery, setSearchQuery] = useState("");
+    const [showResults, setShowResults] = useState(false);
+    const { highlightText } = useHighlightText();
+    const [showInfo, setShowInfo] = useState<{ [key: string]: boolean }>({});
 
-    // Function to highlight matched words
-    const highlightText = (text: string, query: string) => {
-        if (!query) return text; // If no search query, return text as is
-
-        const regex = new RegExp(`(${query})`, "gi"); // Case-insensitive match
-        return text.split(regex).map((part, index) =>
-            part.toLowerCase() === query.toLowerCase() ? (
-                <strong key={index} style={{ textDecoration: "underline" }}>{part}</strong>
-            ) : (
-                part
+    const filteredResults = allEpisodes
+        .map(ep => ({
+            ...ep,
+            results: ep.data.filter(entry =>
+                entry.lines.some(lineObj =>
+                    lineObj.line.toLowerCase().includes(searchQuery.toLowerCase())
+                ),
             )
-        );
-    };
+        }))
+        .filter(ep => ep.results.length > 0);
 
-    const filteredResults = Episode1.filter(entry =>
-        entry.lines.some(lineObj =>
-            lineObj.line.toLowerCase().includes(searchQuery.toLowerCase())
-        )
-    );
+    const shouldShowResults = searchQuery.length > 0 && filteredResults.length > 0;
+
+    if (shouldShowResults && !showResults) setShowResults(true);
+    if (!shouldShowResults && showResults) setShowResults(false);
+
+    const toggleInfo = (episodeId: string) => {
+        setShowInfo(prevState => ({
+            ...prevState,
+            [episodeId]: !prevState[episodeId] // Toggle the info visibility for the clicked episode
+        }));
+    };
 
     return (
         <div className={S.container}>
-            <input
-                type="text"
-                placeholder="Search subtitles..."
-                value={searchQuery}
-                onChange={(e) => setSearchQuery(e.target.value)}
-            />
-            {searchQuery &&  <p>Search results for "{searchQuery}":</p>}
-            <ul>
-                {searchQuery && filteredResults.map((entry, index) => (
-                    <li key={index}>
+            <div className={S.searchBar}>
+                <input
+                    type="text"
+                    placeholder="Search subtitles..."
+                    value={searchQuery}
+                    onChange={(e) => setSearchQuery(e.target.value)}
+                />
+                {searchQuery && (
+                    <button onClick={() => setSearchQuery("")} className={S.clearButton}>
+                        Ryd
+                    </button>
+                )}
+            </div>
 
-                        {entry.lines.map((lineObj, i) => (
-                            <li key={i}>{highlightText(lineObj.line, searchQuery)}</li>
-                        ))}
-                        {entry.start} - {entry.end}
-                    </li>
-                ))}
-            </ul>
+            {showResults && (
+                <ul className={S.resultList}>
+                    {filteredResults.map((ep) => (
+                        <li key={ep.episode} className={S.episodeItem}>
+                            <div className={S.episodeHeader}>
+                                <h3>{ep.episode} - {ep.episodeTitle}</h3>
+                                <button onClick={() => toggleInfo(ep.episode)}>
+                                    se mere
+                                </button>
+                            </div>
+                            {showInfo[ep.episode] && (
+                                <EpisodeInfoComponent {...ep} />
+                            )}
+                            <ul className={S.subtitleList}>
+                                {ep.results.map((entry, index) => (
+                                    <li key={index} className={S.subtitleEntry}>
+                                        <div>
+                                            {entry.lines.map((lineObj, i) => (
+                                                <span className={S.line} key={i}>{highlightText(lineObj.line, searchQuery)}</span>
+                                            ))}
+                                            {entry.resume === true && <span className={S.resume}>(en del af resuméet)</span>}
+                                        </div>
+                                        <span>
+                                            Siges efter {formatTime(entry.start)} i <span className={S.italic}>{ep.episode} - {ep.episodeTitle}</span>
+                                        </span>
+                                    </li>
+                                ))}
+                            </ul>
+                        </li>
+                    ))}
+                </ul>
+            )}
         </div>
     );
 };

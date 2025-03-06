@@ -1,11 +1,12 @@
-export interface Line {
+interface Line {
     line: string;
 }
-
-export interface EpisodeLine {
+interface EpisodeLine {
     start: string;
     end: string;
+    resume?: boolean;
     lines: Line[];
+    episode?: number;
 }
 
 export type Episode = EpisodeLine[];
