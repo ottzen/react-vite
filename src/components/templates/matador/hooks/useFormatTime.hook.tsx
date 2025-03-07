@@ -8,9 +8,9 @@ export const formatTime = (time: string): string => {
 
     const parts = [];
 
-    if (parsedHours > 0) parts.push(`${parsedHours} time`);
-    if (parsedMinutes > 0) parts.push(`${parsedMinutes} minutter`);
+    if (parsedHours > 0) parts.push(`${parsedHours} time,`);
+    if (parsedMinutes > 0) parts.push(`${parsedMinutes} minutter og`);
     if (parsedSeconds > 0) parts.push(`${parsedSeconds} sekunder`);
 
-    return parts.join(", ");
+    return parts.join(" ");
 };

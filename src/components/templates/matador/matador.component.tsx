@@ -41,7 +41,10 @@ const MatadorComponent = () => {
                     type="text"
                     placeholder="Search subtitles..."
                     value={searchQuery}
-                    onChange={(e) => setSearchQuery(e.target.value)}
+                    onChange={(e) => {
+                        setSearchQuery(e.target.value)
+                        setShowInfo({})
+                    }}
                 />
                 {searchQuery && (
                     <button onClick={() => setSearchQuery("")} className={S.clearButton}>
@@ -55,9 +58,11 @@ const MatadorComponent = () => {
                     {filteredResults.map((ep) => (
                         <li key={ep.episode} className={S.episodeItem}>
                             <div className={S.episodeHeader}>
-                                <h3>{ep.episode} - {ep.episodeTitle}</h3>
+                                {ep.results.length > 0 && (
+                                    <div><strong>{ep.results.length} hits</strong> i {ep.episode} - {ep.episodeTitle}</div>
+                                )}
                                 <button onClick={() => toggleInfo(ep.episode)}>
-                                    se mere
+                                    Info om afsnit
                                 </button>
                             </div>
                             {showInfo[ep.episode] && (
@@ -82,6 +87,7 @@ const MatadorComponent = () => {
                     ))}
                 </ul>
             )}
+
         </div>
     );
 };

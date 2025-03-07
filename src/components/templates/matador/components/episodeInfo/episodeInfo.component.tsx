@@ -16,6 +16,7 @@ const EpisodeInfoComponent = (props: EpisodeInfoComponentProps) => {
             <div className={S.episodeInfo} >
                 <div>Titel: {props.episodeTitle}</div>
                 <div>År: {props.period}</div>
+                <div>Sæson: {props.season}</div>
                 <div>Varighed: {props.playTime}</div>
                 <BasicLink href={props.drTvUrl} target="_blank">Se {props.episode} - {props.episodeTitle} på DRTV</BasicLink>
             </div>
