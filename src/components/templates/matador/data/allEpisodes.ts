@@ -2,6 +2,7 @@ import { Episode1 } from "./episode1";
 import { Episode2 } from "./episode2";
 import { Episode3 } from "./episode3";
 import { Episode4 } from "./episode4";
+import { Episode5 } from "./episode5";
 import { EpisodeData } from "../interfaces/episodeData.interface";
 
 export const allEpisodes: EpisodeData[] = [
@@ -40,6 +41,15 @@ export const allEpisodes: EpisodeData[] = [
         playTime: "55min",
         drTvUrl: "https://www.dr.dk/drtv/se/matador_-skyggetanten_130390",
         data: Episode4,
+    },
+    {
+        episode: "5. Episode",
+        episodeTitle: "Den enes død",
+        period: "1932",
+        season: "1",
+        playTime: "1 time",
+        drTvUrl: "https://www.dr.dk/drtv/se/matador_-den-enes-doed_130388",
+        data: Episode5,
     }
 ];
 
