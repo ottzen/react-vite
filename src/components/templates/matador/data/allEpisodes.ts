@@ -4,6 +4,9 @@ import { Episode3 } from "./episode3";
 import { Episode4 } from "./episode4";
 import { Episode5 } from "./episode5";
 import { EpisodeData } from "../interfaces/episodeData.interface";
+import { Episode6 } from "./episode6";
+import { Episode7 } from "./episode7";
+import { Episode8 } from "./episode8";
 
 export const allEpisodes: EpisodeData[] = [
     {
@@ -50,6 +53,96 @@ export const allEpisodes: EpisodeData[] = [
         playTime: "1 time",
         drTvUrl: "https://www.dr.dk/drtv/se/matador_-den-enes-doed_130388",
         data: Episode5,
+    },
+    {
+        episode: "6. Episode",
+        episodeTitle: "Opmarch",
+        period: "1932",
+        season: "1",
+        playTime: "56min",
+        drTvUrl: "https://www.dr.dk/drtv/se/matador_-opmarch_130399",
+        data: Episode6,
+    },
+    {
+        episode: "7. Episode",
+        episodeTitle: "Fødselsdagen",
+        period: "1933",
+        season: "2",
+        playTime: "1 time, 15min",
+        drTvUrl: "https://www.dr.dk/drtv/se/matador_-foedselsdagen_130396",
+        data: Episode7,
+    },
+    {
+        episode: "8. Episode",
+        episodeTitle: "Komme fremmede",
+        period: "1934",
+        season: "2",
+        playTime: "1 time, 17min",
+        drTvUrl: "https://www.dr.dk/drtv/se/matador_-komme-fremmede_130391",
+        data: Episode8,
+    },
+    {
+        episode: "9. Episode",
+        episodeTitle: "Hen til kommoden",
+        period: "1935",
+        season: "2",
+        playTime: "1 time, 5min",
+        drTvUrl: "https://www.dr.dk/drtv/se/matador_-hen-til-kommoden_130386",
+        data: [],
+    },
+    {
+        episode: "10. Episode",
+        episodeTitle: "I disse tider",
+        period: "1935",
+        season: "2",
+        playTime: "1 time, 5min",
+        drTvUrl: "https://www.dr.dk/drtv/se/matador_-i-disse-tider_130394",
+        data: [],
+    },
+    {
+        episode: "11. Episode",
+        episodeTitle: "I klemme",
+        period: "1936",
+        season: "2",
+        playTime: "1 time, 13min",
+        drTvUrl: "https://www.dr.dk/drtv/se/matador_-i-klemme_130400",
+        data: [],
+    },
+    {
+        episode: "12. Episode",
+        episodeTitle: "I lyst og nød",
+        period: "1936-37",
+        season: "2",
+        playTime: "1 time, 22min",
+        drTvUrl: "https://www.dr.dk/drtv/se/matador_-i-lyst-og-noed_130395",
+        data: [],
+    },
+    {
+        episode: "13. Episode",
+        episodeTitle: "Et nyt liv",
+        period: "1937-38",
+        season: "3",
+        playTime: "1 time, 24min",
+        drTvUrl: "https://www.dr.dk/drtv/se/matador_-et-nyt-liv_130404",
+        data: [],
+    },
+    {
+        episode: "14. Episode",
+        episodeTitle: "Brikkerne",
+        period: "1938-39",
+        season: "3",
+        playTime: "1 time, 13min",
+        drTvUrl: "https://www.dr.dk/drtv/se/matador_-brikkerne_130407",
+        data: [],
+    },
+    {
+        episode: "15. Episode",
+        episodeTitle: "At tænke og tro.",
+        period: "1939",
+        season: "3",
+        playTime: "1 time, 13min",
+        drTvUrl: "https://www.dr.dk/drtv/se/matador_-at-taenke-og-tro_130409",
+        data: [],
     }
 ];
 
