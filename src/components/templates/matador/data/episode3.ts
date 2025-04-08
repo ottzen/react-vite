@@ -2085,7 +2085,7 @@ export const Episode3: Episode = [
                 "line": "Mads, der er kommet en rejsende"
             },
             {
-                "line": "fra Engborgs Konfektions-fabrik."
+                "line": "fra Engborgs konfektionsfabrik."
             }
         ]
     },

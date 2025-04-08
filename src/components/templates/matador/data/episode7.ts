@@ -2300,7 +2300,7 @@ export const Episode7: Episode =
                 "line": "- og plads til"
             },
             {
-                "line": "en konfektions-fabrik."
+                "line": "en konfektionsfabrik."
             }
         ]
     },

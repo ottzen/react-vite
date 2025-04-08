@@ -7,6 +7,13 @@ import { EpisodeData } from "../interfaces/episodeData.interface";
 import { Episode6 } from "./episode6";
 import { Episode7 } from "./episode7";
 import { Episode8 } from "./episode8";
+import { Episode9 } from "./episode9y";
+import { Episode10 } from "./episode10";
+import { Episode11 } from "./episode11";
+import { Episode12 } from "./episode12";
+import { Episode13 } from "./episode13";
+import { Episode14 } from "./episode14";
+import { Episode15 } from "./episode15";
 
 export const allEpisodes: EpisodeData[] = [
     {
@@ -88,7 +95,7 @@ export const allEpisodes: EpisodeData[] = [
         season: "2",
         playTime: "1 time, 5min",
         drTvUrl: "https://www.dr.dk/drtv/se/matador_-hen-til-kommoden_130386",
-        data: [],
+        data: Episode9,
     },
     {
         episode: "10. Episode",
@@ -97,7 +104,7 @@ export const allEpisodes: EpisodeData[] = [
         season: "2",
         playTime: "1 time, 5min",
         drTvUrl: "https://www.dr.dk/drtv/se/matador_-i-disse-tider_130394",
-        data: [],
+        data: Episode10,
     },
     {
         episode: "11. Episode",
@@ -106,34 +113,34 @@ export const allEpisodes: EpisodeData[] = [
         season: "2",
         playTime: "1 time, 13min",
         drTvUrl: "https://www.dr.dk/drtv/se/matador_-i-klemme_130400",
-        data: [],
+        data: Episode11,
     },
     {
         episode: "12. Episode",
         episodeTitle: "I lyst og nød",
-        period: "1936-37",
+        period: "1936-1937",
         season: "2",
         playTime: "1 time, 22min",
         drTvUrl: "https://www.dr.dk/drtv/se/matador_-i-lyst-og-noed_130395",
-        data: [],
+        data: Episode12,
     },
     {
         episode: "13. Episode",
         episodeTitle: "Et nyt liv",
-        period: "1937-38",
+        period: "1937-1938",
         season: "3",
         playTime: "1 time, 24min",
         drTvUrl: "https://www.dr.dk/drtv/se/matador_-et-nyt-liv_130404",
-        data: [],
+        data: Episode13,
     },
     {
         episode: "14. Episode",
         episodeTitle: "Brikkerne",
-        period: "1938-39",
+        period: "1938-1939",
         season: "3",
         playTime: "1 time, 13min",
         drTvUrl: "https://www.dr.dk/drtv/se/matador_-brikkerne_130407",
-        data: [],
+        data: Episode14,
     },
     {
         episode: "15. Episode",
@@ -142,7 +149,7 @@ export const allEpisodes: EpisodeData[] = [
         season: "3",
         playTime: "1 time, 13min",
         drTvUrl: "https://www.dr.dk/drtv/se/matador_-at-taenke-og-tro_130409",
-        data: [],
+        data: Episode15,
     }
 ];
 
