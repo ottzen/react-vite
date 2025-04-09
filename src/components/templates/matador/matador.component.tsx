@@ -1,8 +1,9 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { allEpisodes } from "./data/allEpisodes";
 import { useHighlightText } from "./hooks/useHighlightText.hook";
 import { formatTime } from "./hooks/useFormatTime.hook";
 import EpisodeInfoComponent from "./components/episodeInfo/episodeInfo.component";
+import { useDebounce } from "react-use";
 import S from "./matador.module.scss";
 
 const MatadorComponent = () => {
@@ -11,21 +12,33 @@ const MatadorComponent = () => {
     const { highlightText } = useHighlightText();
     const [showInfo, setShowInfo] = useState<{ [key: string]: boolean }>({});
 
+    const [debouncedQuery, setDebouncedQuery] = useState(searchQuery);
+
+    useDebounce(
+        () => {
+            setDebouncedQuery(searchQuery);
+        },
+        250,
+        [searchQuery]
+    );
+
     const filteredResults = allEpisodes
         .map(ep => ({
             ...ep,
             results: ep.data.filter(entry =>
                 entry.lines.some(lineObj =>
-                    lineObj.line.toLowerCase().includes(searchQuery.toLowerCase())
+                    lineObj.line.toLowerCase().includes(debouncedQuery.toLowerCase())
                 ),
             )
         }))
         .filter(ep => ep.results.length > 0);
 
-    const shouldShowResults = searchQuery.length > 0 && filteredResults.length > 0;
 
-    if (shouldShowResults && !showResults) setShowResults(true);
-    if (!shouldShowResults && showResults) setShowResults(false);
+    const shouldShowResults = debouncedQuery.length > 0 && filteredResults.length > 0;
+
+    useEffect(() => {
+        setShowResults(shouldShowResults);
+    }, [shouldShowResults]);
 
     const toggleInfo = (episodeId: string) => {
         setShowInfo(prevState => ({

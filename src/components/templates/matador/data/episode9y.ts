@@ -192,7 +192,7 @@ export const Episode9: Episode =
                 "line": "med Ulla Jacobsen,"
             },
             {
-                "line": "som hjælper med overarbejde."
+                "line": "som hjælper ham med hans overarbejde."
             }
         ],
         "resume": true
