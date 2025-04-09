@@ -32,14 +32,10 @@ const MatadorComponent = () => {
             )
         }))
         .filter(ep => ep.results.length > 0);
-        
-        const shouldShowResults = debouncedQuery.length > 0 && filteredResults.length > 0;
-        if (shouldShowResults && !showResults) setShowResults(true);
-        if (!shouldShowResults && showResults) setShowResults(false);
 
-    // useEffect(() => {
-    //     setShowResults(shouldShowResults);
-    // }, [shouldShowResults]);
+    const shouldShowResults = debouncedQuery.length > 0 && filteredResults.length > 0;
+    if (shouldShowResults && !showResults) setShowResults(true);
+    if (!shouldShowResults && showResults) setShowResults(false);
 
     const toggleInfo = (episodeId: string) => {
         setShowInfo(prevState => ({
