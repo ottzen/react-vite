@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { allEpisodes } from "./data/allEpisodes";
 import { useHighlightText } from "./hooks/useHighlightText.hook";
 import { formatTime } from "./hooks/useFormatTime.hook";
@@ -32,13 +32,14 @@ const MatadorComponent = () => {
             )
         }))
         .filter(ep => ep.results.length > 0);
+        
+        const shouldShowResults = debouncedQuery.length > 0 && filteredResults.length > 0;
+        if (shouldShowResults && !showResults) setShowResults(true);
+        if (!shouldShowResults && showResults) setShowResults(false);
 
-
-    const shouldShowResults = debouncedQuery.length > 0 && filteredResults.length > 0;
-
-    useEffect(() => {
-        setShowResults(shouldShowResults);
-    }, [shouldShowResults]);
+    // useEffect(() => {
+    //     setShowResults(shouldShowResults);
+    // }, [shouldShowResults]);
 
     const toggleInfo = (episodeId: string) => {
         setShowInfo(prevState => ({
