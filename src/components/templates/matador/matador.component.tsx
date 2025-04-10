@@ -64,7 +64,7 @@ const MatadorComponent = () => {
                 )}
             </div>
 
-            {!shouldShowResults && showResults && (
+            {searchQuery !== "" && !showResults && (
                 <Spinner />
             )}
 
