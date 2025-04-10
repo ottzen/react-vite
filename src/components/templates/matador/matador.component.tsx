@@ -4,6 +4,7 @@ import { useHighlightText } from "./hooks/useHighlightText.hook";
 import { formatTime } from "./hooks/useFormatTime.hook";
 import EpisodeInfoComponent from "./components/episodeInfo/episodeInfo.component";
 import { useDebounce } from "react-use";
+import { Spinner } from "../../organims/Spinner/Spinner.component";
 import S from "./matador.module.scss";
 
 const MatadorComponent = () => {
@@ -62,6 +63,10 @@ const MatadorComponent = () => {
                     </button>
                 )}
             </div>
+
+            {!shouldShowResults && showResults && (
+                <Spinner />
+            )}
 
             {showResults && (
                 <ul className={S.resultList}>
