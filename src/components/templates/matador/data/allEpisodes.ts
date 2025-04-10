@@ -14,6 +14,10 @@ import { Episode12 } from "./episode12";
 import { Episode13 } from "./episode13";
 import { Episode14 } from "./episode14";
 import { Episode15 } from "./episode15";
+import { Episode16 } from "./episode16";
+import { Episode17 } from "./episode17";
+import { Episode18 } from "./episode18";
+import { Episode19 } from "./episode19";
 
 export const allEpisodes: EpisodeData[] = [
     {
@@ -150,6 +154,87 @@ export const allEpisodes: EpisodeData[] = [
         playTime: "1 time, 13min",
         drTvUrl: "https://www.dr.dk/drtv/se/matador_-at-taenke-og-tro_130409",
         data: Episode15,
+    },
+    {
+        episode: "16. Episode",
+        episodeTitle: "Lauras store dag",
+        period: "1940",
+        season: "3",
+        playTime: "1 time, 25min",
+        drTvUrl: "https://www.dr.dk/drtv/se/matador_-lauras-store-dag_130406",
+        data: Episode16,
+    },
+    {
+        episode: "17. Episode",
+        episodeTitle: "De voksnes rækker",
+        period: "1941-1942",
+        season: "3",
+        playTime: "1 time, 20min",
+        drTvUrl: "https://www.dr.dk/drtv/se/matador_-de-voksnes-raekker_130403",
+        data: Episode17,
+    },
+    {
+        episode: "18. Episode",
+        episodeTitle: "Hr. Stein",
+        period: "1943",
+        season: "3",
+        playTime: "1 time, 20min",
+        drTvUrl: "https://www.dr.dk/drtv/se/matador_-hr-stein_130405",
+        data: Episode18,
+    },
+    {
+        episode: "19. Episode",
+        episodeTitle: "Handel og vandel",
+        period: "1944",
+        season: "4",
+        playTime: "58min",
+        drTvUrl: "https://www.dr.dk/drtv/se/matador_-handel-og-vandel_130412",
+        data: Episode19,
+    },
+    {
+        episode: "20. Episode",
+        episodeTitle: "Den 11. time",
+        period: "1945",
+        season: "4",
+        playTime: "1 time, 2min",
+        drTvUrl: "https://www.dr.dk/drtv/se/matador_-den-11-time_130408",
+        data: Episode16,
+    },
+    {
+        episode: "21. Episode",
+        episodeTitle: "Vi vil fred her til lands",
+        period: "1945",
+        season: "4",
+        playTime: "59min",
+        drTvUrl: "https://www.dr.dk/drtv/se/matador_-vi-vil-fred-her-til-lands_130410",
+        data: Episode16,
+    },
+    {
+        episode: "22. Episode",
+        episodeTitle: "Det går jo godt",
+        period: "1945-1946",
+        season: "4",
+        playTime: "58in",
+        drTvUrl: "https://www.dr.dk/drtv/se/matador_-det-gaar-jo-godt_130411",
+        data: Episode16,
+    },
+    {
+        episode: "23. Episode",
+        episodeTitle: "Mellem brødre",
+        period: "1946",
+        season: "4",
+        playTime: "1 time, 3min",
+        drTvUrl: "https://www.dr.dk/drtv/se/matador_-mellem-broedre_130414",
+        data: Episode16,
+    },
+    {
+        episode: "24. Episode",
+        episodeTitle: "New look",
+        period: "1947",
+        season: "4",
+        playTime: "1 time, 22min",
+        drTvUrl: "https://www.dr.dk/drtv/se/matador_-new-look_130416",
+        data: Episode16,
     }
 ];
 
