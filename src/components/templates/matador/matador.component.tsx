@@ -44,7 +44,8 @@ const MatadorComponent = () => {
             [episodeId]: !prevState[episodeId] // Toggle the info visibility for the clicked episode
         }));
     };
-
+    const allMatchingEntries = filteredResults.flatMap(ep => ep.results);
+    console.log(allMatchingEntries)
     return (
         <div className={S.container}>
             <div className={S.searchBar}>
@@ -68,8 +69,10 @@ const MatadorComponent = () => {
                 <Spinner />
             )}
 
+
             {showResults && (
                 <ul className={S.resultList}>
+                    Hits i alt: {allMatchingEntries.length} i {filteredResults.length} afsnit
                     {filteredResults.map((ep) => (
                         <li key={ep.episode} className={S.episodeItem}>
                             <div className={S.episodeHeader}>
