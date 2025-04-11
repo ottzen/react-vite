@@ -18,8 +18,9 @@ const MatadorComponent = () => {
     useDebounce(
         () => {
             setDebouncedQuery(searchQuery);
+            window.scrollTo(0, 0); // Scroll to top when search query changes
         },
-        250,
+        500,
         [searchQuery]
     );
 
