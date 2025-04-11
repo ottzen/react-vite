@@ -35,6 +35,17 @@ const MatadorComponent = () => {
         }))
         .filter(ep => ep.results.length > 0);
 
+    const getAllLinesFromAllEpisodes = () => {
+        return allEpisodes.flatMap(ep =>
+            ep.data.flatMap(entry =>
+                entry.lines.map(lineObj => lineObj.line)
+            )
+        );
+    };
+
+    const allLines = getAllLinesFromAllEpisodes();
+    console.log(allLines.length)
+
     const shouldShowResults = debouncedQuery.length > 0 && filteredResults.length > 0;
     if (shouldShowResults && !showResults) setShowResults(true);
     if (!shouldShowResults && showResults) setShowResults(false);
@@ -46,7 +57,7 @@ const MatadorComponent = () => {
         }));
     };
     const allMatchingEntries = filteredResults.flatMap(ep => ep.results);
-    console.log(allMatchingEntries)
+
     return (
         <div className={S.container}>
             <div className={S.searchBar}>
@@ -67,7 +78,10 @@ const MatadorComponent = () => {
             </div>
 
             {searchQuery !== "" && !showResults && (
-                <Spinner />
+                <div>
+                    <Spinner />
+                    ` Søger i {allLines.length} replikker...`
+                </div>
             )}
 
 
