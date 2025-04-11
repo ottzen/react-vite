@@ -18,6 +18,11 @@ import { Episode16 } from "./episode16";
 import { Episode17 } from "./episode17";
 import { Episode18 } from "./episode18";
 import { Episode19 } from "./episode19";
+import { Episode20 } from "./episode20";
+import { Episode21 } from "./episode21";
+import { Episode22 } from "./episode22";
+import { Episode23 } from "./episode23";
+import { Episode24 } from "./episode24,";
 
 export const allEpisodes: EpisodeData[] = [
     {
@@ -198,7 +203,7 @@ export const allEpisodes: EpisodeData[] = [
         season: "4",
         playTime: "1 time, 2min",
         drTvUrl: "https://www.dr.dk/drtv/se/matador_-den-11-time_130408",
-        data: Episode16,
+        data: Episode20,
     },
     {
         episode: "21. Episode",
@@ -207,7 +212,7 @@ export const allEpisodes: EpisodeData[] = [
         season: "4",
         playTime: "59min",
         drTvUrl: "https://www.dr.dk/drtv/se/matador_-vi-vil-fred-her-til-lands_130410",
-        data: Episode16,
+        data: Episode21,
     },
     {
         episode: "22. Episode",
@@ -216,7 +221,7 @@ export const allEpisodes: EpisodeData[] = [
         season: "4",
         playTime: "58in",
         drTvUrl: "https://www.dr.dk/drtv/se/matador_-det-gaar-jo-godt_130411",
-        data: Episode16,
+        data: Episode22,
     },
     {
         episode: "23. Episode",
@@ -225,7 +230,7 @@ export const allEpisodes: EpisodeData[] = [
         season: "4",
         playTime: "1 time, 3min",
         drTvUrl: "https://www.dr.dk/drtv/se/matador_-mellem-broedre_130414",
-        data: Episode16,
+        data: Episode23,
     },
     {
         episode: "24. Episode",
@@ -234,33 +239,6 @@ export const allEpisodes: EpisodeData[] = [
         season: "4",
         playTime: "1 time, 22min",
         drTvUrl: "https://www.dr.dk/drtv/se/matador_-new-look_130416",
-        data: Episode16,
+        data: Episode24,
     }
 ];
-
-// const drLinks = [
-//     `1 https://www.dr.dk/drtv/se/matador_-den-rejsende_130377`,
-//     `2 https://www.dr.dk/drtv/se/matador_-genboen_130378`,
-//     `3 https://www.dr.dk/drtv/se/matador_-skiftedag_130387`,
-//     `4 https://www.dr.dk/drtv/se/matador_-skyggetanten_130390`,
-//     `5 https://www.dr.dk/drtv/se/matador_-den-enes-doed_130388`,
-//     `6 https://www.dr.dk/drtv/se/matador_-opmarch_130399`,
-//     `7 https://www.dr.dk/drtv/se/matador_-foedselsdagen_130396`,
-//     `8 https://www.dr.dk/drtv/se/matador_-komme-fremmede_130391`,
-//     `9 https://www.dr.dk/drtv/se/matador_-hen-til-kommoden_130386`,
-//     `10 https://www.dr.dk/drtv/se/matador_-i-disse-tider_130394`,
-//     `11 https://www.dr.dk/drtv/se/matador_-i-klemme_130400`,
-//     `12 https://www.dr.dk/drtv/se/matador_-i-lyst-og-noed_130395`,
-//     `13 https://www.dr.dk/drtv/se/matador_-et-nyt-liv_130404`,
-//     `14 https://www.dr.dk/drtv/se/matador_-brikkerne_130407`,
-//     `15 https://www.dr.dk/drtv/se/matador_-at-taenke-og-tro_130409`,
-//     `16 https://www.dr.dk/drtv/se/matador_-lauras-store-dag_130406`,
-//     `17 https://www.dr.dk/drtv/se/matador_-de-voksnes-raekker_130403`,
-//     `18 https://www.dr.dk/drtv/se/matador_-hr-stein_130405`,
-//     `19 https://www.dr.dk/drtv/se/matador_-handel-og-vandel_130412`,
-//     `20 https://www.dr.dk/drtv/se/matador_-den-11-time_130408`,
-//     `21 https://www.dr.dk/drtv/se/matador_-vi-vil-fred-her-til-lands_130410`,
-//     `22 https://www.dr.dk/drtv/se/matador_-det-gaar-jo-godt_130411`,
-//     `23 https://www.dr.dk/drtv/se/matador_-mellem-broedre_130414`,
-//     `24 https://www.dr.dk/drtv/se/matador_-new-look_130416`,
-// ]
