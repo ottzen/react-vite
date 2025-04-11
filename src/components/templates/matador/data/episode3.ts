@@ -9,7 +9,7 @@ export const Episode3: Episode = [
                 "line": "Mads Andersen-Skjern har rejst"
             },
             {
-                "line": "fra by til by med sin dreng Daniel -"
+                "line": "fra by til by med sin dreng Daniel"
             }
         ],
         "resume": true
@@ -19,10 +19,10 @@ export const Episode3: Episode = [
         "end": "00:00:29,428",
         "lines": [
             {
-                "line": "- og har nu slået sig ned"
+                "line": "og har nu slået sig ned"
             },
             {
-                "line": "i den lille by Korsbæk, -"
+                "line": "i den lille by Korsbæk,"
             }
         ],
         "resume": true
@@ -32,7 +32,7 @@ export const Episode3: Episode = [
         "end": "00:00:34,156",
         "lines": [
             {
-                "line": "- der hidtil har været domineret"
+                "line": "der hidtil har været domineret"
             },
             {
                 "line": "af gamle familier og hakkeorden."
@@ -48,7 +48,7 @@ export const Episode3: Episode = [
                 "line": "Han placerer sin forretning"
             },
             {
-                "line": "over for Damernes Magasin, -"
+                "line": "over for Damernes Magasin,"
             }
         ],
         "resume": true
@@ -58,10 +58,10 @@ export const Episode3: Episode = [
         "end": "00:00:41,599",
         "lines": [
             {
-                "line": "- der ledes udygtigt"
+                "line": "der ledes udygtigt"
             },
             {
-                "line": "af Albert Arnesen, -"
+                "line": "af Albert Arnesen,"
             }
         ],
         "resume": true
@@ -71,7 +71,7 @@ export const Episode3: Episode = [
         "end": "00:00:45,270",
         "lines": [
             {
-                "line": "- som har arvet butikken"
+                "line": "som har arvet butikken"
             },
             {
                 "line": "efter sin far og bedstefar."
@@ -87,7 +87,7 @@ export const Episode3: Episode = [
                 "line": "Arnesen distraheres"
             },
             {
-                "line": "af sin unge kone Vicki, -"
+                "line": "af sin unge kone Vicki,"
             }
         ],
         "resume": true
@@ -97,7 +97,7 @@ export const Episode3: Episode = [
         "end": "00:00:52,592",
         "lines": [
             {
-                "line": "- der muntrer sig"
+                "line": "der muntrer sig"
             },
             {
                 "line": "med jævnaldrende."
@@ -165,7 +165,7 @@ export const Episode3: Episode = [
                 "line": "Han får moralsk støtte"
             },
             {
-                "line": "af grisehandler Oluf Larsen, -"
+                "line": "af grisehandler Oluf Larsen,"
             }
         ],
         "resume": true
@@ -175,7 +175,7 @@ export const Episode3: Episode = [
         "end": "00:01:12,432",
         "lines": [
             {
-                "line": "- hvis kone Katrine"
+                "line": "hvis kone Katrine"
             },
             {
                 "line": "har penge på kistebunden."
@@ -191,7 +191,7 @@ export const Episode3: Episode = [
                 "line": "Grisehandlerens datter Ingeborg"
             },
             {
-                "line": "assisterer i forretningen, -"
+                "line": "assisterer i forretningen,"
             }
         ],
         "resume": true
@@ -201,7 +201,7 @@ export const Episode3: Episode = [
         "end": "00:01:19,470",
         "lines": [
             {
-                "line": "- der betragtes med skepsis"
+                "line": "der betragtes med skepsis"
             },
             {
                 "line": "af konkurrenten."
@@ -217,7 +217,7 @@ export const Episode3: Episode = [
                 "line": "De gamle familier vender ryggen"
             },
             {
-                "line": "til Mads og hans kreds, -"
+                "line": "til Mads og hans kreds,"
             }
         ],
         "resume": true
@@ -227,7 +227,7 @@ export const Episode3: Episode = [
         "end": "00:01:27,960",
         "lines": [
             {
-                "line": "- men bankdirektørens søn Ulrik"
+                "line": "men bankdirektørens søn Ulrik"
             },
             {
                 "line": "drages mod Daniel."
@@ -243,7 +243,7 @@ export const Episode3: Episode = [
                 "line": "Sammen med søsteren Regitze"
             },
             {
-                "line": "og barnepigen Agnes -"
+                "line": "og barnepigen Agnes"
             }
         ],
         "resume": true
@@ -253,10 +253,10 @@ export const Episode3: Episode = [
         "end": "00:01:36,229",
         "lines": [
             {
-                "line": "- mænger han sig i smug med"
+                "line": "mænger han sig i smug med"
             },
             {
-                "line": "folket i Jernbane-restauranten, -"
+                "line": "folket i Jernbane-restauranten,"
             }
         ],
         "resume": true
@@ -266,7 +266,7 @@ export const Episode3: Episode = [
         "end": "00:01:40,194",
         "lines": [
             {
-                "line": "- hvor Agnes møder tjener Boldt."
+                "line": "hvor Agnes møder tjener Boldt."
             }
         ],
         "resume": true
@@ -306,10 +306,10 @@ export const Episode3: Episode = [
         "end": "00:02:36,155",
         "lines": [
             {
-                "line": "- lfølge regulativ af 1. nov. 1929."
+                "line": "lfølge regulativ af 1. nov. 1929."
             },
             {
-                "line": "- De skal ikke hindre mig."
+                "line": "De skal ikke hindre mig."
             }
         ]
     },
@@ -468,10 +468,10 @@ export const Episode3: Episode = [
         "end": "00:04:10,472",
         "lines": [
             {
-                "line": "- Konsulinden har gjort mig den ære."
+                "line": "Konsulinden har gjort mig den ære."
             },
             {
-                "line": "- De er meget populær."
+                "line": "De er meget populær."
             }
         ]
     },
@@ -480,10 +480,10 @@ export const Episode3: Episode = [
         "end": "00:04:13,638",
         "lines": [
             {
-                "line": "- Hvad ser jeg?"
+                "line": "Hvad ser jeg?"
             },
             {
-                "line": "- Min hustru."
+                "line": "Min hustru."
             }
         ]
     },
@@ -504,10 +504,10 @@ export const Episode3: Episode = [
         "end": "00:04:22,350",
         "lines": [
             {
-                "line": "- Ikke når det er fra højre."
+                "line": "Ikke når det er fra højre."
             },
             {
-                "line": "- Det er meget interessant."
+                "line": "Det er meget interessant."
             }
         ]
     },
@@ -552,7 +552,7 @@ export const Episode3: Episode = [
                 "line": "Jeg dirrer en lille smule"
             },
             {
-                "line": "hver gang, -"
+                "line": "hver gang,"
             }
         ]
     },
@@ -561,7 +561,7 @@ export const Episode3: Episode = [
         "end": "00:04:48,479",
         "lines": [
             {
-                "line": "- men Jørgen"
+                "line": "men Jørgen"
             },
             {
                 "line": "kender ikke til nervøsitet."
@@ -597,10 +597,10 @@ export const Episode3: Episode = [
         "end": "00:05:00,837",
         "lines": [
             {
-                "line": "- Hvad mener du?"
+                "line": "Hvad mener du?"
             },
             {
-                "line": "- Hun var værre som barn."
+                "line": "Hun var værre som barn."
             }
         ]
     },
@@ -645,10 +645,10 @@ export const Episode3: Episode = [
         "end": "00:05:19,869",
         "lines": [
             {
-                "line": "- Jeg tænker på noget."
+                "line": "Jeg tænker på noget."
             },
             {
-                "line": "- Hvad, min ven?"
+                "line": "Hvad, min ven?"
             }
         ]
     },
@@ -669,10 +669,10 @@ export const Episode3: Episode = [
         "end": "00:05:31,471",
         "lines": [
             {
-                "line": "- Jeg vidste det!"
+                "line": "Jeg vidste det!"
             },
             {
-                "line": "- Hvad for noget?"
+                "line": "Hvad for noget?"
             }
         ]
     },
@@ -681,10 +681,10 @@ export const Episode3: Episode = [
         "end": "00:05:36,595",
         "lines": [
             {
-                "line": "- Det fyger med baciller."
+                "line": "Det fyger med baciller."
             },
             {
-                "line": "- Ingen baciller i Jørgens kreds."
+                "line": "Ingen baciller i Jørgens kreds."
             }
         ]
     },
@@ -714,10 +714,10 @@ export const Episode3: Episode = [
         "end": "00:05:50,793",
         "lines": [
             {
-                "line": "- Du hilser på de store?"
+                "line": "Du hilser på de store?"
             },
             {
-                "line": "- Jeg er ikke for ringe til at hilse."
+                "line": "Jeg er ikke for ringe til at hilse."
             }
         ]
     },
@@ -726,10 +726,10 @@ export const Episode3: Episode = [
         "end": "00:05:57,038",
         "lines": [
             {
-                "line": "- Skal vi have kaffe bagefter?"
+                "line": "Skal vi have kaffe bagefter?"
             },
             {
-                "line": "- Ingeborg har kaffe til os."
+                "line": "Ingeborg har kaffe til os."
             }
         ]
     },
@@ -780,10 +780,10 @@ export const Episode3: Episode = [
         "end": "00:06:48,116",
         "lines": [
             {
-                "line": "- Og her sover Mads?"
+                "line": "Og her sover Mads?"
             },
             {
-                "line": "- Ja."
+                "line": "Ja."
             }
         ]
     },
@@ -795,7 +795,7 @@ export const Episode3: Episode = [
                 "line": "Vi er alle landsmænd,"
             },
             {
-                "line": "samlet under samme fane, -"
+                "line": "samlet under samme fane,"
             }
         ]
     },
@@ -804,7 +804,7 @@ export const Episode3: Episode = [
         "end": "00:06:59,789",
         "lines": [
             {
-                "line": "- samme konge,"
+                "line": "samme konge,"
             },
             {
                 "line": "samme fortids-arv."
@@ -876,7 +876,7 @@ export const Episode3: Episode = [
                 "line": "Den rigdom, der venter på os alle"
             },
             {
-                "line": "i den danske muld, -"
+                "line": "i den danske muld,"
             }
         ]
     },
@@ -885,7 +885,7 @@ export const Episode3: Episode = [
         "end": "00:07:32,196",
         "lines": [
             {
-                "line": "- hvis bare vi gider tage fat."
+                "line": "hvis bare vi gider tage fat."
             }
         ]
     },
@@ -906,7 +906,7 @@ export const Episode3: Episode = [
                 "line": "Ja, det giver mig lejlighed"
             },
             {
-                "line": "til at tale om noget, -"
+                "line": "til at tale om noget,"
             }
         ]
     },
@@ -915,7 +915,7 @@ export const Episode3: Episode = [
         "end": "00:07:43,393",
         "lines": [
             {
-                "line": "- der ligger os fra højre"
+                "line": "der ligger os fra højre"
             },
             {
                 "line": "stærkt på sinde."
@@ -963,7 +963,7 @@ export const Episode3: Episode = [
                 "line": "Hvis De køber danske varer"
             },
             {
-                "line": "for disse penge, -"
+                "line": "for disse penge,"
             }
         ]
     },
@@ -972,10 +972,10 @@ export const Episode3: Episode = [
         "end": "00:08:01,914",
         "lines": [
             {
-                "line": "- så er De med til"
+                "line": "så er De med til"
             },
             {
-                "line": "at holde hjulene i gang -"
+                "line": "at holde hjulene i gang"
             }
         ]
     },
@@ -984,7 +984,7 @@ export const Episode3: Episode = [
         "end": "00:08:05,556",
         "lines": [
             {
-                "line": "- under Deres mænds"
+                "line": "under Deres mænds"
             },
             {
                 "line": "flittige hænder."
@@ -999,7 +999,7 @@ export const Episode3: Episode = [
                 "line": "Det siger noget"
             },
             {
-                "line": "om kvindens betydning, -"
+                "line": "om kvindens betydning,"
             }
         ]
     },
@@ -1008,10 +1008,10 @@ export const Episode3: Episode = [
         "end": "00:08:11,873",
         "lines": [
             {
-                "line": "- om hendes store,"
+                "line": "om hendes store,"
             },
             {
-                "line": "hellige opgave -"
+                "line": "hellige opgave"
             }
         ]
     },
@@ -1020,7 +1020,7 @@ export const Episode3: Episode = [
         "end": "00:08:15,709",
         "lines": [
             {
-                "line": "- med at røgte sit kald"
+                "line": "med at røgte sit kald"
             },
             {
                 "line": "med mand, børn og hjem."
@@ -1053,7 +1053,7 @@ export const Episode3: Episode = [
         "end": "00:08:22,358",
         "lines": [
             {
-                "line": "Vi fra mit parti, -"
+                "line": "Vi fra mit parti,"
             }
         ]
     },
@@ -1062,10 +1062,10 @@ export const Episode3: Episode = [
         "end": "00:08:27,680",
         "lines": [
             {
-                "line": "- vi vil med al magt forsøge"
+                "line": "vi vil med al magt forsøge"
             },
             {
-                "line": "at imødegå den skadelige tendens, -"
+                "line": "at imødegå den skadelige tendens,"
             }
         ]
     },
@@ -1074,10 +1074,10 @@ export const Episode3: Episode = [
         "end": "00:08:33,830",
         "lines": [
             {
-                "line": "- hvor selv gifte kvinder går"
+                "line": "hvor selv gifte kvinder går"
             },
             {
-                "line": "fra deres naturlige arbejde -"
+                "line": "fra deres naturlige arbejde"
             }
         ]
     },
@@ -1086,7 +1086,7 @@ export const Episode3: Episode = [
         "end": "00:08:37,350",
         "lines": [
             {
-                "line": "- for at stjæle arbejdet"
+                "line": "for at stjæle arbejdet"
             },
             {
                 "line": "fra mændene."
@@ -1110,10 +1110,10 @@ export const Episode3: Episode = [
         "end": "00:08:57,112",
         "lines": [
             {
-                "line": "- Har du tid til at læse bøger?"
+                "line": "Har du tid til at læse bøger?"
             },
             {
-                "line": "- Det skal jeg have."
+                "line": "Det skal jeg have."
             }
         ]
     },
@@ -1182,10 +1182,10 @@ export const Episode3: Episode = [
         "end": "00:09:18,352",
         "lines": [
             {
-                "line": "- Ligger han aldrig hos dig?"
+                "line": "Ligger han aldrig hos dig?"
             },
             {
-                "line": "- Nej."
+                "line": "Nej."
             }
         ]
     },
@@ -1239,10 +1239,10 @@ export const Episode3: Episode = [
         "end": "00:09:35,390",
         "lines": [
             {
-                "line": "- Holger?"
+                "line": "Holger?"
             },
             {
-                "line": "- Næh, at Mads slet ikke drikker."
+                "line": "Næh, at Mads slet ikke drikker."
             }
         ]
     },
@@ -1299,7 +1299,7 @@ export const Episode3: Episode = [
                 "line": "Naturen har gjort kvinderne"
             },
             {
-                "line": "mere egnede -"
+                "line": "mere egnede"
             }
         ]
     },
@@ -1308,7 +1308,7 @@ export const Episode3: Episode = [
         "end": "00:09:57,957",
         "lines": [
             {
-                "line": "- til husgerning, sygepleje"
+                "line": "til husgerning, sygepleje"
             },
             {
                 "line": "og børnepasning."
@@ -1320,7 +1320,7 @@ export const Episode3: Episode = [
         "end": "00:09:59,798",
         "lines": [
             {
-                "line": "Hun er skabt så forunderlig, -"
+                "line": "Hun er skabt så forunderlig,"
             }
         ]
     },
@@ -1329,7 +1329,7 @@ export const Episode3: Episode = [
         "end": "00:10:04,596",
         "lines": [
             {
-                "line": "- at det at pleje og passe"
+                "line": "at det at pleje og passe"
             },
             {
                 "line": "ligger dybt forankret i hende."
@@ -1380,7 +1380,7 @@ export const Episode3: Episode = [
                 "line": "En stemme for os er ikke bare"
             },
             {
-                "line": "en stemme for dansk arbejde, -"
+                "line": "en stemme for dansk arbejde,"
             }
         ]
     },
@@ -1389,7 +1389,7 @@ export const Episode3: Episode = [
         "end": "00:10:25,633",
         "lines": [
             {
-                "line": "- men også for"
+                "line": "men også for"
             },
             {
                 "line": "det danske forsvar."
@@ -1470,7 +1470,7 @@ export const Episode3: Episode = [
                 "line": "Vort parti vil arbejde"
             },
             {
-                "line": "for et stærkt forsvar, -"
+                "line": "for et stærkt forsvar,"
             }
         ]
     },
@@ -1479,10 +1479,10 @@ export const Episode3: Episode = [
         "end": "00:10:58,077",
         "lines": [
             {
-                "line": "- som kan stå vagt"
+                "line": "som kan stå vagt"
             },
             {
-                "line": "om vor gamle fane, -"
+                "line": "om vor gamle fane,"
             }
         ]
     },
@@ -1491,7 +1491,7 @@ export const Episode3: Episode = [
         "end": "00:11:00,874",
         "lines": [
             {
-                "line": "- om vort gamle Danmark."
+                "line": "om vort gamle Danmark."
             }
         ]
     },
@@ -1521,10 +1521,10 @@ export const Episode3: Episode = [
         "end": "00:11:09,716",
         "lines": [
             {
-                "line": "- Ud med ham!"
+                "line": "Ud med ham!"
             },
             {
-                "line": "- Med kongen?"
+                "line": "Med kongen?"
             }
         ]
     },
@@ -1536,7 +1536,7 @@ export const Episode3: Episode = [
                 "line": "En stemme til de konservative"
             },
             {
-                "line": "er en støtte til alt dansk -"
+                "line": "er en støtte til alt dansk"
             }
         ]
     },
@@ -1545,7 +1545,7 @@ export const Episode3: Episode = [
         "end": "00:11:21,072",
         "lines": [
             {
-                "line": "- samlet under"
+                "line": "samlet under"
             },
             {
                 "line": "vort gamle kongehus. Tak."
@@ -1590,10 +1590,10 @@ export const Episode3: Episode = [
         "end": "00:11:52,109",
         "lines": [
             {
-                "line": "- Deres fugle kan De godt beholde."
+                "line": "Deres fugle kan De godt beholde."
             },
             {
-                "line": "- Som man behager."
+                "line": "Som man behager."
             }
         ]
     },
@@ -1683,10 +1683,10 @@ export const Episode3: Episode = [
         "end": "00:12:24,839",
         "lines": [
             {
-                "line": "- De bruger silke."
+                "line": "De bruger silke."
             },
             {
-                "line": "- Som man behager."
+                "line": "Som man behager."
             }
         ]
     },
@@ -1725,10 +1725,10 @@ export const Episode3: Episode = [
         "end": "00:13:12,796",
         "lines": [
             {
-                "line": "- Skal butikken ikke åbnes?"
+                "line": "Skal butikken ikke åbnes?"
             },
             {
-                "line": "- Jeg pakker ud."
+                "line": "Jeg pakker ud."
             }
         ]
     },
@@ -1737,10 +1737,10 @@ export const Episode3: Episode = [
         "end": "00:13:17,676",
         "lines": [
             {
-                "line": "- Det kan De gøre før arbejdstid."
+                "line": "Det kan De gøre før arbejdstid."
             },
             {
-                "line": "- Javel."
+                "line": "Javel."
             }
         ]
     },
@@ -1749,10 +1749,10 @@ export const Episode3: Episode = [
         "end": "00:13:41,148",
         "lines": [
             {
-                "line": "- Arnold?"
+                "line": "Arnold?"
             },
             {
-                "line": "- Er det dig, mor?"
+                "line": "Er det dig, mor?"
             }
         ]
     },
@@ -1761,10 +1761,10 @@ export const Episode3: Episode = [
         "end": "00:13:44,670",
         "lines": [
             {
-                "line": "- Hvad laver du her?"
+                "line": "Hvad laver du her?"
             },
             {
-                "line": "- Det gamle lort."
+                "line": "Det gamle lort."
             }
         ]
     },
@@ -1806,10 +1806,10 @@ export const Episode3: Episode = [
         "end": "00:13:56,399",
         "lines": [
             {
-                "line": "- Udlært?"
+                "line": "Udlært?"
             },
             {
-                "line": "- Har du talt om pengene?"
+                "line": "Har du talt om pengene?"
             }
         ]
     },
@@ -1875,10 +1875,10 @@ export const Episode3: Episode = [
         "end": "00:14:33,234",
         "lines": [
             {
-                "line": "- Arnold er jo udlært nu."
+                "line": "Arnold er jo udlært nu."
             },
             {
-                "line": "- Ja, tiden går."
+                "line": "Ja, tiden går."
             }
         ]
     },
@@ -1923,10 +1923,10 @@ export const Episode3: Episode = [
         "end": "00:14:47,957",
         "lines": [
             {
-                "line": "- Her lærer man at blive."
+                "line": "Her lærer man at blive."
             },
             {
-                "line": "- Så kan Arnold blive?"
+                "line": "Så kan Arnold blive?"
             }
         ]
     },
@@ -1959,10 +1959,10 @@ export const Episode3: Episode = [
         "end": "00:15:04,115",
         "lines": [
             {
-                "line": "- Hvad med pengene?"
+                "line": "Hvad med pengene?"
             },
             {
-                "line": "- De får jo kredit, fru Violet."
+                "line": "De får jo kredit, fru Violet."
             }
         ]
     },
@@ -1983,10 +1983,10 @@ export const Episode3: Episode = [
         "end": "00:15:13,434",
         "lines": [
             {
-                "line": "- Det afgør k u n hr. Arnesen."
+                "line": "Det afgør k u n hr. Arnesen."
             },
             {
-                "line": "- Nu er han jo udlært og voksen."
+                "line": "Nu er han jo udlært og voksen."
             }
         ]
     },
@@ -2172,10 +2172,10 @@ export const Episode3: Episode = [
         "end": "00:16:53,315",
         "lines": [
             {
-                "line": "- Men han vil ikke."
+                "line": "Men han vil ikke."
             },
             {
-                "line": "- Sådan er ungdommen."
+                "line": "Sådan er ungdommen."
             }
         ]
     },
@@ -2220,10 +2220,10 @@ export const Episode3: Episode = [
         "end": "00:17:12,032",
         "lines": [
             {
-                "line": "- Det er stof af enestående kvalitet."
+                "line": "Det er stof af enestående kvalitet."
             },
             {
-                "line": "- Det er længe siden, det var stof."
+                "line": "Det er længe siden, det var stof."
             }
         ]
     },
@@ -2232,10 +2232,10 @@ export const Episode3: Episode = [
         "end": "00:17:15,391",
         "lines": [
             {
-                "line": "- De vil ikke reparere den?"
+                "line": "De vil ikke reparere den?"
             },
             {
-                "line": "- Det kan jeg ikke."
+                "line": "Det kan jeg ikke."
             }
         ]
     },
@@ -2358,10 +2358,10 @@ export const Episode3: Episode = [
         "end": "00:18:11,714",
         "lines": [
             {
-                "line": "- Vil de have dig?"
+                "line": "Vil de have dig?"
             },
             {
-                "line": "- Ja ja. Ikke, Ulrik?"
+                "line": "Ja ja. Ikke, Ulrik?"
             }
         ]
     },
@@ -2388,10 +2388,10 @@ export const Episode3: Episode = [
         "end": "00:18:20,876",
         "lines": [
             {
-                "line": "- Var der propert?"
+                "line": "Var der propert?"
             },
             {
-                "line": "- Der stank af sæbelud."
+                "line": "Der stank af sæbelud."
             }
         ]
     },
@@ -2484,10 +2484,10 @@ export const Episode3: Episode = [
         "end": "00:19:05,356",
         "lines": [
             {
-                "line": "- Er det ikke Emilie?"
+                "line": "Er det ikke Emilie?"
             },
             {
-                "line": "- Dav, Ingeborg."
+                "line": "Dav, Ingeborg."
             }
         ]
     },
@@ -2583,10 +2583,10 @@ export const Episode3: Episode = [
         "end": "00:19:44,357",
         "lines": [
             {
-                "line": "- Alting bliver slidt ned."
+                "line": "Alting bliver slidt ned."
             },
             {
-                "line": "- I har da en god gård."
+                "line": "I har da en god gård."
             }
         ]
     },
@@ -2607,10 +2607,10 @@ export const Episode3: Episode = [
         "end": "00:19:53,110",
         "lines": [
             {
-                "line": "- Hvor ligger gården?"
+                "line": "Hvor ligger gården?"
             },
             {
-                "line": "- Ved siden af far og mor."
+                "line": "Ved siden af far og mor."
             }
         ]
     },
@@ -2652,10 +2652,10 @@ export const Episode3: Episode = [
         "end": "00:20:22,758",
         "lines": [
             {
-                "line": "- Hvad med dig?"
+                "line": "Hvad med dig?"
             },
             {
-                "line": "- Jeg var færdig kl.10."
+                "line": "Jeg var færdig kl.10."
             }
         ]
     },
@@ -2676,10 +2676,10 @@ export const Episode3: Episode = [
         "end": "00:20:32,271",
         "lines": [
             {
-                "line": "- Kan du gøre noget for ham?"
+                "line": "Kan du gøre noget for ham?"
             },
             {
-                "line": "- Nu har han til taget til laden."
+                "line": "Nu har han til taget til laden."
             }
         ]
     },
@@ -2712,10 +2712,10 @@ export const Episode3: Episode = [
         "end": "00:20:45,157",
         "lines": [
             {
-                "line": "- Det er jo..."
+                "line": "Det er jo..."
             },
             {
-                "line": "- En skoleuniform."
+                "line": "En skoleuniform."
             }
         ]
     },
@@ -2778,10 +2778,10 @@ export const Episode3: Episode = [
         "end": "00:21:10,639",
         "lines": [
             {
-                "line": "- Og hvad så?"
+                "line": "Og hvad så?"
             },
             {
-                "line": "- De vil ikke tage hende."
+                "line": "De vil ikke tage hende."
             }
         ]
     },
@@ -2820,10 +2820,10 @@ export const Episode3: Episode = [
         "end": "00:21:51,432",
         "lines": [
             {
-                "line": "- Jeg véd ikke rigtig."
+                "line": "Jeg véd ikke rigtig."
             },
             {
-                "line": "- Den sidder perfekt."
+                "line": "Den sidder perfekt."
             }
         ]
     },
@@ -3030,10 +3030,10 @@ export const Episode3: Episode = [
         "end": "00:23:38,912",
         "lines": [
             {
-                "line": "- Den er lige til Nationalmuseet."
+                "line": "Den er lige til Nationalmuseet."
             },
             {
-                "line": "- Den er fra Alberts barndom."
+                "line": "Den er fra Alberts barndom."
             }
         ]
     },
@@ -3042,10 +3042,10 @@ export const Episode3: Episode = [
         "end": "00:23:44,955",
         "lines": [
             {
-                "line": "- Dér er Albert."
+                "line": "Dér er Albert."
             },
             {
-                "line": "- Han er da nuttet."
+                "line": "Han er da nuttet."
             }
         ]
     },
@@ -3054,10 +3054,10 @@ export const Episode3: Episode = [
         "end": "00:23:49,113",
         "lines": [
             {
-                "line": "- Go'dav, Albert."
+                "line": "Go'dav, Albert."
             },
             {
-                "line": "- Albert."
+                "line": "Albert."
             }
         ]
     },
@@ -3096,10 +3096,10 @@ export const Episode3: Episode = [
         "end": "00:24:12,034",
         "lines": [
             {
-                "line": "- Jeg kommer hjem i morgen."
+                "line": "Jeg kommer hjem i morgen."
             },
             {
-                "line": "- Hvad skal det sige?"
+                "line": "Hvad skal det sige?"
             }
         ]
     },
@@ -3120,10 +3120,10 @@ export const Episode3: Episode = [
         "end": "00:24:18,158",
         "lines": [
             {
-                "line": "- Hør nu..."
+                "line": "Hør nu..."
             },
             {
-                "line": "- Så, Albert."
+                "line": "Så, Albert."
             }
         ]
     },
@@ -3249,10 +3249,10 @@ export const Episode3: Episode = [
         "end": "00:25:34,269",
         "lines": [
             {
-                "line": "- Baronessen kender min far."
+                "line": "Baronessen kender min far."
             },
             {
-                "line": "- Er De vekselerer Holmdals søn?"
+                "line": "Er De vekselerer Holmdals søn?"
             }
         ]
     },
@@ -3318,10 +3318,10 @@ export const Episode3: Episode = [
         "end": "00:26:09,478",
         "lines": [
             {
-                "line": "- Fik De ordnet Deres indkøb, Lily?"
+                "line": "Fik De ordnet Deres indkøb, Lily?"
             },
             {
-                "line": "- Jeg købte en frakke, en Rodex."
+                "line": "Jeg købte en frakke, en Rodex."
             }
         ]
     },
@@ -3330,10 +3330,10 @@ export const Episode3: Episode = [
         "end": "00:26:11,796",
         "lines": [
             {
-                "line": "- En hvad?"
+                "line": "En hvad?"
             },
             {
-                "line": "- En Rodex."
+                "line": "En Rodex."
             }
         ]
     },
@@ -3363,10 +3363,10 @@ export const Episode3: Episode = [
         "end": "00:26:22,318",
         "lines": [
             {
-                "line": "- Hvad gav De for den?"
+                "line": "Hvad gav De for den?"
             },
             {
-                "line": "- 35 kr."
+                "line": "35 kr."
             }
         ]
     },
@@ -3429,10 +3429,10 @@ export const Episode3: Episode = [
         "end": "00:26:49,391",
         "lines": [
             {
-                "line": "- Mads, véd du hvad?"
+                "line": "Mads, véd du hvad?"
             },
             {
-                "line": "- Er der sket noget?"
+                "line": "Er der sket noget?"
             }
         ]
     },
@@ -3483,10 +3483,10 @@ export const Episode3: Episode = [
         "end": "00:27:17,916",
         "lines": [
             {
-                "line": "- Hvad er det?"
+                "line": "Hvad er det?"
             },
             {
-                "line": "- Jeg må fortælle chefen..."
+                "line": "Jeg må fortælle chefen..."
             }
         ]
     },
@@ -3525,10 +3525,10 @@ export const Episode3: Episode = [
         "end": "00:27:30,879",
         "lines": [
             {
-                "line": "- Og Arnold? Hvor er han?"
+                "line": "Og Arnold? Hvor er han?"
             },
             {
-                "line": "- Ja, hvor er Arnold?"
+                "line": "Ja, hvor er Arnold?"
             }
         ]
     },
@@ -3612,10 +3612,10 @@ export const Episode3: Episode = [
         "end": "00:28:06,798",
         "lines": [
             {
-                "line": "- Jeg skal vel have mad?"
+                "line": "Jeg skal vel have mad?"
             },
             {
-                "line": "- De behøver ikke være næsvis."
+                "line": "De behøver ikke være næsvis."
             }
         ]
     },
@@ -3732,10 +3732,10 @@ export const Episode3: Episode = [
         "end": "00:28:51,599",
         "lines": [
             {
-                "line": "- Hvad er der med den?"
+                "line": "Hvad er der med den?"
             },
             {
-                "line": "- Den er overtrukket."
+                "line": "Den er overtrukket."
             }
         ]
     },
@@ -3813,10 +3813,10 @@ export const Episode3: Episode = [
         "end": "00:29:26,875",
         "lines": [
             {
-                "line": "- Der var noget andet."
+                "line": "Der var noget andet."
             },
             {
-                "line": "- Ja?"
+                "line": "Ja?"
             }
         ]
     },
@@ -3828,7 +3828,7 @@ export const Episode3: Episode = [
                 "line": "Har direktøren"
             },
             {
-                "line": "nogen anelse om, -"
+                "line": "nogen anelse om,"
             }
         ]
     },
@@ -3837,7 +3837,7 @@ export const Episode3: Episode = [
         "end": "00:29:33,191",
         "lines": [
             {
-                "line": "- hvor Andersen-Skjern"
+                "line": "hvor Andersen-Skjern"
             },
             {
                 "line": "anbringer sine midler?"
@@ -3849,10 +3849,10 @@ export const Episode3: Episode = [
         "end": "00:29:38,349",
         "lines": [
             {
-                "line": "- Han har ikke konto her."
+                "line": "Han har ikke konto her."
             },
             {
-                "line": "- Nej, netop."
+                "line": "Nej, netop."
             }
         ]
     },
@@ -3861,10 +3861,10 @@ export const Episode3: Episode = [
         "end": "00:29:57,316",
         "lines": [
             {
-                "line": "- Er du ikke Daniels ven Ulrik?"
+                "line": "Er du ikke Daniels ven Ulrik?"
             },
             {
-                "line": "- Jo."
+                "line": "Jo."
             }
         ]
     },
@@ -3873,10 +3873,10 @@ export const Episode3: Episode = [
         "end": "00:30:01,195",
         "lines": [
             {
-                "line": "- Skal vi ikke spille kort, Røde?"
+                "line": "Skal vi ikke spille kort, Røde?"
             },
             {
-                "line": "- Jeg skal læse det her."
+                "line": "Jeg skal læse det her."
             }
         ]
     },
@@ -3942,10 +3942,10 @@ export const Episode3: Episode = [
         "end": "00:30:21,675",
         "lines": [
             {
-                "line": "- Må jeg smage din øl?"
+                "line": "Må jeg smage din øl?"
             },
             {
-                "line": "- Kun en lille tår."
+                "line": "Kun en lille tår."
             }
         ]
     },
@@ -4050,10 +4050,10 @@ export const Episode3: Episode = [
         "end": "00:31:08,390",
         "lines": [
             {
-                "line": "- Én gang til."
+                "line": "Én gang til."
             },
             {
-                "line": "- Så er det sidste gang."
+                "line": "Så er det sidste gang."
             }
         ]
     },
@@ -4107,10 +4107,10 @@ export const Episode3: Episode = [
         "end": "00:31:27,599",
         "lines": [
             {
-                "line": "- Hvem er Møgdal?"
+                "line": "Hvem er Møgdal?"
             },
             {
-                "line": "- Madsen-Mygdal."
+                "line": "Madsen-Mygdal."
             }
         ]
     },
@@ -4311,7 +4311,7 @@ export const Episode3: Episode = [
                 "line": "Når det hele er gjort op,"
             },
             {
-                "line": "så mener sagføreren, -"
+                "line": "så mener sagføreren,"
             }
         ]
     },
@@ -4320,7 +4320,7 @@ export const Episode3: Episode = [
         "end": "00:32:49,718",
         "lines": [
             {
-                "line": "- at det bliver 9-10.000 kr."
+                "line": "at det bliver 9-10.000 kr."
             },
             {
                 "line": "Og dertil nogle pretiosa."
@@ -4410,10 +4410,10 @@ export const Episode3: Episode = [
         "end": "00:33:24,519",
         "lines": [
             {
-                "line": "- Jeg har bestræbt mig."
+                "line": "Jeg har bestræbt mig."
             },
             {
-                "line": "- Ja, det har De."
+                "line": "Ja, det har De."
             }
         ]
     },
@@ -4434,7 +4434,7 @@ export const Episode3: Episode = [
         "end": "00:33:30,599",
         "lines": [
             {
-                "line": "Med indskud af de penge, -"
+                "line": "Med indskud af de penge,"
             }
         ]
     },
@@ -4443,7 +4443,7 @@ export const Episode3: Episode = [
         "end": "00:33:36,511",
         "lines": [
             {
-                "line": "- så vil jeg tilbyde Dem"
+                "line": "så vil jeg tilbyde Dem"
             },
             {
                 "line": "at blive kompagnon."
@@ -4521,10 +4521,10 @@ export const Episode3: Episode = [
         "end": "00:34:31,832",
         "lines": [
             {
-                "line": "- En pige til denne her?."
+                "line": "En pige til denne her?."
             },
             {
-                "line": "- Næh, til den i Tidende."
+                "line": "Næh, til den i Tidende."
             }
         ]
     },
@@ -4557,10 +4557,10 @@ export const Episode3: Episode = [
         "end": "00:34:51,039",
         "lines": [
             {
-                "line": "- Om jeg bliver klog på dig..."
+                "line": "Om jeg bliver klog på dig..."
             },
             {
-                "line": "- Jeg har brug for dig her."
+                "line": "Jeg har brug for dig her."
             }
         ]
     },
@@ -4581,10 +4581,10 @@ export const Episode3: Episode = [
         "end": "00:35:02,037",
         "lines": [
             {
-                "line": "- Goddag."
+                "line": "Goddag."
             },
             {
-                "line": "- Gudrun."
+                "line": "Gudrun."
             }
         ]
     },
@@ -4710,10 +4710,10 @@ export const Episode3: Episode = [
         "end": "00:36:42,314",
         "lines": [
             {
-                "line": "- Lønforhøjelse?"
+                "line": "Lønforhøjelse?"
             },
             {
-                "line": "- Ja."
+                "line": "Ja."
             }
         ]
     },
@@ -4734,10 +4734,10 @@ export const Episode3: Episode = [
         "end": "00:36:50,518",
         "lines": [
             {
-                "line": "- Men jeg må skære ned."
+                "line": "Men jeg må skære ned."
             },
             {
-                "line": "- Jo, men..."
+                "line": "Jo, men..."
             }
         ]
     },
@@ -4779,10 +4779,10 @@ export const Episode3: Episode = [
         "end": "00:37:06,637",
         "lines": [
             {
-                "line": "- Sagde De lønforhøjelse?"
+                "line": "Sagde De lønforhøjelse?"
             },
             {
-                "line": "- Ja, tak."
+                "line": "Ja, tak."
             }
         ]
     },
@@ -4800,10 +4800,10 @@ export const Episode3: Episode = [
         "end": "00:37:12,390",
         "lines": [
             {
-                "line": "- Jeg er ikke lærling længere."
+                "line": "Jeg er ikke lærling længere."
             },
             {
-                "line": "- De har meget at lære."
+                "line": "De har meget at lære."
             }
         ]
     },
@@ -4869,10 +4869,10 @@ export const Episode3: Episode = [
         "end": "00:37:35,519",
         "lines": [
             {
-                "line": "- Jeg rejser altså."
+                "line": "Jeg rejser altså."
             },
             {
-                "line": "- Tænk Dem om, Arnold."
+                "line": "Tænk Dem om, Arnold."
             }
         ]
     },
@@ -4926,10 +4926,10 @@ export const Episode3: Episode = [
         "end": "00:38:07,157",
         "lines": [
             {
-                "line": "- Farvel og tak."
+                "line": "Farvel og tak."
             },
             {
-                "line": "- Farvel, frk. Møhge."
+                "line": "Farvel, frk. Møhge."
             }
         ]
     },
@@ -4968,10 +4968,10 @@ export const Episode3: Episode = [
         "end": "00:38:24,955",
         "lines": [
             {
-                "line": "- Hvad er der?."
+                "line": "Hvad er der?."
             },
             {
-                "line": "- Jeg har sagt op."
+                "line": "Jeg har sagt op."
             }
         ]
     },
@@ -5037,7 +5037,7 @@ export const Episode3: Episode = [
                 "line": "Hr. Schwann, som kompagnon må"
             },
             {
-                "line": "De kunne se nødvendigheden af, -"
+                "line": "De kunne se nødvendigheden af,"
             }
         ]
     },
@@ -5046,7 +5046,7 @@ export const Episode3: Episode = [
         "end": "00:39:04,079",
         "lines": [
             {
-                "line": "- at vi indskrænker os"
+                "line": "at vi indskrænker os"
             },
             {
                 "line": "og løfter i flok."
@@ -5067,10 +5067,10 @@ export const Episode3: Episode = [
         "end": "00:39:41,558",
         "lines": [
             {
-                "line": "- Hvad skulle det være?"
+                "line": "Hvad skulle det være?"
             },
             {
-                "line": "- Jeg skulle tale med chefen."
+                "line": "Jeg skulle tale med chefen."
             }
         ]
     },
@@ -5079,10 +5079,10 @@ export const Episode3: Episode = [
         "end": "00:39:47,073",
         "lines": [
             {
-                "line": "- Om nogle pantebreve."
+                "line": "Om nogle pantebreve."
             },
             {
-                "line": "- Det er denne vej."
+                "line": "Det er denne vej."
             }
         ]
     },
@@ -5130,10 +5130,10 @@ export const Episode3: Episode = [
         "end": "00:40:11,790",
         "lines": [
             {
-                "line": "- Det er på efterkrav."
+                "line": "Det er på efterkrav."
             },
             {
-                "line": "- Hvad bilder Lundberg sig ind?"
+                "line": "Hvad bilder Lundberg sig ind?"
             }
         ]
     },
@@ -5166,10 +5166,10 @@ export const Episode3: Episode = [
         "end": "00:40:25,877",
         "lines": [
             {
-                "line": "- Hvad gør vi?"
+                "line": "Hvad gør vi?"
             },
             {
-                "line": "- Bed Schwann om at få det ordnet."
+                "line": "Bed Schwann om at få det ordnet."
             }
         ]
     },
@@ -5178,10 +5178,10 @@ export const Episode3: Episode = [
         "end": "00:40:45,155",
         "lines": [
             {
-                "line": "- Deres første månedsløn, hr. Vinter."
+                "line": "Deres første månedsløn, hr. Vinter."
             },
             {
-                "line": "- Mange tak."
+                "line": "Mange tak."
             }
         ]
     },
@@ -5190,10 +5190,10 @@ export const Episode3: Episode = [
         "end": "00:40:49,035",
         "lines": [
             {
-                "line": "- Er De glad for at være her?"
+                "line": "Er De glad for at være her?"
             },
             {
-                "line": "- Ja, tak."
+                "line": "Ja, tak."
             }
         ]
     },
@@ -5214,10 +5214,10 @@ export const Episode3: Episode = [
         "end": "00:41:00,836",
         "lines": [
             {
-                "line": "- Det meste vil jeg spare op."
+                "line": "Det meste vil jeg spare op."
             },
             {
-                "line": "- Til egen forretning?"
+                "line": "Til egen forretning?"
             }
         ]
     },
@@ -5226,10 +5226,10 @@ export const Episode3: Episode = [
         "end": "00:41:04,077",
         "lines": [
             {
-                "line": "- Nej, en motor-cykel."
+                "line": "Nej, en motor-cykel."
             },
             {
-                "line": "- Nå."
+                "line": "Nå."
             }
         ]
     },
@@ -5271,10 +5271,10 @@ export const Episode3: Episode = [
         "end": "00:41:18,237",
         "lines": [
             {
-                "line": "- Hvad giver banken i rente?"
+                "line": "Hvad giver banken i rente?"
             },
             {
-                "line": "- Vistnok 4 %."
+                "line": "Vistnok 4 %."
             }
         ]
     },
@@ -5367,10 +5367,10 @@ export const Episode3: Episode = [
         "end": "00:42:08,837",
         "lines": [
             {
-                "line": "- De har ikke så mange penge."
+                "line": "De har ikke så mange penge."
             },
             {
-                "line": "- Men de er fine alligevel."
+                "line": "Men de er fine alligevel."
             }
         ]
     },
@@ -5445,10 +5445,10 @@ export const Episode3: Episode = [
         "end": "00:42:45,311",
         "lines": [
             {
-                "line": "- Hende, der går rundt og syer."
+                "line": "Hende, der går rundt og syer."
             },
             {
-                "line": "- Ikke hos os."
+                "line": "Ikke hos os."
             }
         ]
     },
@@ -5559,10 +5559,10 @@ export const Episode3: Episode = [
         "end": "00:43:19,155",
         "lines": [
             {
-                "line": "- På hva'?"
+                "line": "På hva'?"
             },
             {
-                "line": "- På polsk!"
+                "line": "På polsk!"
             }
         ]
     },
@@ -5571,10 +5571,10 @@ export const Episode3: Episode = [
         "end": "00:43:22,113",
         "lines": [
             {
-                "line": "- Nå, katolsk."
+                "line": "Nå, katolsk."
             },
             {
-                "line": "- Nej, mor..."
+                "line": "Nej, mor..."
             }
         ]
     },
@@ -5739,10 +5739,10 @@ export const Episode3: Episode = [
         "end": "00:44:38,999",
         "lines": [
             {
-                "line": "- Værsgo."
+                "line": "Værsgo."
             },
             {
-                "line": "- Tak, min tøs."
+                "line": "Tak, min tøs."
             }
         ]
     },
@@ -5763,10 +5763,10 @@ export const Episode3: Episode = [
         "end": "00:44:45,397",
         "lines": [
             {
-                "line": "- Af hvad?"
+                "line": "Af hvad?"
             },
             {
-                "line": "- Af koner til at sy."
+                "line": "Af koner til at sy."
             }
         ]
     },
@@ -5787,10 +5787,10 @@ export const Episode3: Episode = [
         "end": "00:44:54,469",
         "lines": [
             {
-                "line": "- Uniformer?"
+                "line": "Uniformer?"
             },
             {
-                "line": "- Ja, skoleuniformer."
+                "line": "Ja, skoleuniformer."
             }
         ]
     },
@@ -5826,7 +5826,7 @@ export const Episode3: Episode = [
                 "line": "Jeg kan sælge disse uniformer"
             },
             {
-                "line": "2 kr. billigere -"
+                "line": "2 kr. billigere"
             }
         ]
     },
@@ -5835,7 +5835,7 @@ export const Episode3: Episode = [
         "end": "00:45:11,553",
         "lines": [
             {
-                "line": "- og tilbyde skolen en afgift"
+                "line": "og tilbyde skolen en afgift"
             },
             {
                 "line": "på 3 kr. per uniform."
@@ -5904,10 +5904,10 @@ export const Episode3: Episode = [
         "end": "00:45:38,878",
         "lines": [
             {
-                "line": "- Og det er?"
+                "line": "Og det er?"
             },
             {
-                "line": "- Selvfølgelig gør vi undtagelser."
+                "line": "Selvfølgelig gør vi undtagelser."
             }
         ]
     },
@@ -5931,7 +5931,7 @@ export const Episode3: Episode = [
                 "line": "Men vi er betænkelige ved"
             },
             {
-                "line": "at optage børn -"
+                "line": "at optage børn"
             }
         ]
     },
@@ -5940,7 +5940,7 @@ export const Episode3: Episode = [
         "end": "00:45:53,598",
         "lines": [
             {
-                "line": "- af os ubekendte, fraskilte mødre"
+                "line": "af os ubekendte, fraskilte mødre"
             },
             {
                 "line": "uden egen bopæl..."
@@ -6057,10 +6057,10 @@ export const Episode3: Episode = [
         "end": "00:46:59,878",
         "lines": [
             {
-                "line": "- Hvad skal dét sige?"
+                "line": "Hvad skal dét sige?"
             },
             {
-                "line": "- Jeg er jo ikke vant til at fri."
+                "line": "Jeg er jo ikke vant til at fri."
             }
         ]
     },

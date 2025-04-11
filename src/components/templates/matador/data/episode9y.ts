@@ -917,7 +917,7 @@ export const Episode9: Episode =
                 "line": "Hvorfor er Korsbæks unger begyndt"
             },
             {
-                "line": "at lægge deres 5og 10-ører -"
+                "line": "at lægge deres 5og 10-ører"
             }
         ]
     },
@@ -1013,7 +1013,7 @@ export const Episode9: Episode =
                 "line": "Mor mener den lille park,"
             },
             {
-                "line": "som far ville have anlagt -"
+                "line": "som far ville have anlagt"
             }
         ]
     },
@@ -1259,7 +1259,7 @@ export const Episode9: Episode =
                 "line": "Vi synes så godt om Dem,"
             },
             {
-                "line": "og børnene vil savne Dem -"
+                "line": "og børnene vil savne Dem"
             }
         ]
     },
@@ -1373,7 +1373,7 @@ export const Episode9: Episode =
                 "line": "\"Hesteog kornhandler Møhge"
             },
             {
-                "line": "afstår matr. nr. 28 b, c og e -\""
+                "line": "afstår matr. nr. 28 b, c og e\""
             }
         ]
     },
@@ -1385,7 +1385,7 @@ export const Episode9: Episode =
                 "line": "\"samt nr. 29 c, d, e, f, g, h,"
             },
             {
-                "line": "i alt 11/2 tønde land, til Korsbæk -\""
+                "line": "i alt 11/2 tønde land, til Korsbæk\""
             }
         ]
     },
@@ -1397,7 +1397,7 @@ export const Episode9: Episode =
                 "line": "\"med den klausul,"
             },
             {
-                "line": "at arealet udlægges til et anlæg -\""
+                "line": "at arealet udlægges til et anlæg\""
             }
         ]
     },
@@ -1511,7 +1511,7 @@ export const Episode9: Episode =
                 "line": "Her er en fodnote: Et lignende notat"
             },
             {
-                "line": "findes hos køberen, Korsbæk by -"
+                "line": "findes hos køberen, Korsbæk by"
             }
         ]
     },
@@ -2105,7 +2105,7 @@ export const Episode9: Episode =
                 "line": "Som repræsentant for Korsbæk Bank"
             },
             {
-                "line": "kommer jeg på et uformelt besøg -"
+                "line": "kommer jeg på et uformelt besøg"
             }
         ]
     },
@@ -2117,7 +2117,7 @@ export const Episode9: Episode =
                 "line": "for at høre, hvorfor De"
             },
             {
-                "line": "pludselig brød med banken -"
+                "line": "pludselig brød med banken"
             }
         ]
     },
@@ -2201,7 +2201,7 @@ export const Episode9: Episode =
                 "line": "Og nu ... Nu kender jeg den også"
             },
             {
-                "line": "fra mysteriet om et notat -"
+                "line": "fra mysteriet om et notat"
             }
         ]
     },
@@ -3389,7 +3389,7 @@ export const Episode9: Episode =
                 "line": "Når man tjener i et herskabshjem"
             },
             {
-                "line": "og ellers opfører sig ordentligt -"
+                "line": "og ellers opfører sig ordentligt"
             }
         ]
     },
@@ -3695,7 +3695,7 @@ export const Episode9: Episode =
                 "line": "Min kone, jeg og min svigerinde"
             },
             {
-                "line": "husker tydeligt den dag -"
+                "line": "husker tydeligt den dag"
             }
         ]
     },
@@ -3812,7 +3812,7 @@ export const Episode9: Episode =
                 "line": "Vi overrækker Dem denne kuvert"
             },
             {
-                "line": "med vore gode ønsker for Dem -"
+                "line": "med vore gode ønsker for Dem"
             }
         ]
     },
@@ -3869,7 +3869,7 @@ export const Episode9: Episode =
                 "line": "Det er en dug og nogle servietter."
             },
             {
-                "line": "Jeg synes, De fortjente det -"
+                "line": "Jeg synes, De fortjente det"
             }
         ]
     },
@@ -3998,7 +3998,7 @@ export const Episode9: Episode =
                 "line": "Hjem med grunkerne"
             },
             {
-                "line": "til den vævre jomfru -"
+                "line": "til den vævre jomfru"
             }
         ]
     },
@@ -4559,7 +4559,7 @@ export const Episode9: Episode =
                 "line": "Så kommer artiklen. \"Den danske"
             },
             {
-                "line": "nationalisme blomstrer, komma -\""
+                "line": "nationalisme blomstrer, komma\""
             }
         ]
     },
@@ -4604,7 +4604,7 @@ export const Episode9: Episode =
                 "line": "\"Nu kan man fare fra hovedstaden til"
             },
             {
-                "line": "Hamborg på syv timer, tankestreg -\""
+                "line": "Hamborg på syv timer, tankestreg\""
             }
         ]
     },
@@ -4625,7 +4625,7 @@ export const Episode9: Episode =
         "end": "00:37:43,889",
         "lines": [
             {
-                "line": "\"Det er på høje tid, komma -\""
+                "line": "\"Det er på høje tid, komma\""
             }
         ]
     },
@@ -5303,7 +5303,7 @@ export const Episode9: Episode =
                 "line": "Når de gik hen ad vejen"
             },
             {
-                "line": "de standsed' ved hver gård -"
+                "line": "de standsed' ved hver gård"
             }
         ]
     },
@@ -5375,7 +5375,7 @@ export const Episode9: Episode =
                 "line": "Den anden, ham der spilled'"
             },
             {
-                "line": "så flot på mandolin -"
+                "line": "så flot på mandolin"
             }
         ]
     },
@@ -5423,7 +5423,7 @@ export const Episode9: Episode =
                 "line": "Den tredje ham der hev"
             },
             {
-                "line": "i sin træk-harmonika -"
+                "line": "i sin træk-harmonika"
             }
         ]
     },
@@ -5447,7 +5447,7 @@ export const Episode9: Episode =
                 "line": "Og skønt de alle 16"
             },
             {
-                "line": "frækt nægted' hver især -"
+                "line": "frækt nægted' hver især"
             }
         ]
     },
@@ -5495,7 +5495,7 @@ export const Episode9: Episode =
                 "line": "Men mest dog for de piger"
             },
             {
-                "line": "der lo, når de kom nær -"
+                "line": "der lo, når de kom nær"
             }
         ]
     },
@@ -5519,7 +5519,7 @@ export const Episode9: Episode =
                 "line": "Hun elsked' ham med banjo"
             },
             {
-                "line": "og ham med mandolin -"
+                "line": "og ham med mandolin"
             }
         ]
     },
@@ -5543,7 +5543,7 @@ export const Episode9: Episode =
                 "line": "Når de kom til den by"
             },
             {
-                "line": "hvor hun var, de havde kær -"
+                "line": "hvor hun var, de havde kær"
             }
         ]
     },
@@ -5567,7 +5567,7 @@ export const Episode9: Episode =
                 "line": "Så skete det de tider"
             },
             {
-                "line": "hvor vårens blomster gror -"
+                "line": "hvor vårens blomster gror"
             }
         ]
     },
@@ -5615,7 +5615,7 @@ export const Episode9: Episode =
                 "line": "Han voksed' og blev større"
             },
             {
-                "line": "sådan som det skal ske -"
+                "line": "sådan som det skal ske"
             }
         ]
     },
@@ -5639,7 +5639,7 @@ export const Episode9: Episode =
                 "line": "Men da de trende følte"
             },
             {
-                "line": "at dødens stund var nær -"
+                "line": "at dødens stund var nær"
             }
         ]
     },
@@ -5663,7 +5663,7 @@ export const Episode9: Episode =
                 "line": "Så spilled' han på banjo"
             },
             {
-                "line": "og flot på mandolin -"
+                "line": "og flot på mandolin"
             }
         ]
     },
@@ -5687,7 +5687,7 @@ export const Episode9: Episode =
                 "line": "Han døde mæt af alder"
             },
             {
-                "line": "og visen er forbi -"
+                "line": "og visen er forbi"
             }
         ]
     },
@@ -6629,7 +6629,7 @@ export const Episode9: Episode =
                 "line": "Sol er oppe"
             },
             {
-                "line": "skovens toppe -"
+                "line": "skovens toppe"
             }
         ]
     },
@@ -6641,7 +6641,7 @@ export const Episode9: Episode =
                 "line": "glimre alt"
             },
             {
-                "line": "som Gimles tag -"
+                "line": "som Gimles tag"
             }
         ]
     },
@@ -6653,7 +6653,7 @@ export const Episode9: Episode =
                 "line": "bud os bringer"
             },
             {
-                "line": "hanevinger -"
+                "line": "hanevinger"
             }
         ]
     },
@@ -6677,7 +6677,7 @@ export const Episode9: Episode =
                 "line": "Vågner, vågner"
             },
             {
-                "line": "danske helte -"
+                "line": "danske helte"
             }
         ]
     },
@@ -6725,7 +6725,7 @@ export const Episode9: Episode =
                 "line": "Rolf kan blegne"
             },
             {
-                "line": "Bjarke segne -"
+                "line": "Bjarke segne"
             }
         ]
     },
@@ -7469,7 +7469,7 @@ export const Episode9: Episode =
                 "line": "De sølle bønderkarle ... Folk griner,"
             },
             {
-                "line": "når de kommer trampende -"
+                "line": "når de kommer trampende"
             }
         ]
     },
